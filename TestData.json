@@ -1,0 +1,1022 @@
+[
+	{
+		"Status": "Success",
+		"Client": "CIBC",
+		"Project": "Project001",
+		"FileName": "Data File 01",
+		"Type": "Data File",
+		"RunTime": "08-15-18",
+		"RunBy": "John S",
+		"Log": "Data File run success fully. 500 Records imported"
+	},
+	{
+		"Status": "Success",
+		"Client": "Client1",
+		"Project": "Project002",
+		"FileName": "Data File 02",
+		"Type": "Data File",
+		"RunTime": "08-16-18",
+		"RunBy": "Jim S",
+		"Log": "Data File run success fully. 500 Records imported"
+	},
+	{
+		"Status": "Success",
+		"Client": "Client2",
+		"Project": "Project003",
+		"FileName": "Data File 03",
+		"Type": "Data File",
+		"RunTime": "08-17-18",
+		"RunBy": "Auto",
+		"Log": "Data File run success fully. 500 Records imported"
+	},
+	{
+		"Status": "Success",
+		"Client": "Client3",
+		"Project": "Project004",
+		"FileName": "Data File 04",
+		"Type": "Data File",
+		"RunTime": "08-18-18",
+		"RunBy": "John S",
+		"Log": "Data File run success fully. 500 Records imported"
+	},
+	{
+		"Status": "Error",
+		"Client": "Client4",
+		"Project": "Project005",
+		"FileName": "Data File 05",
+		"Type": "Data File",
+		"RunTime": "08-19-18",
+		"RunBy": "Auto",
+		"Log": "Data File run success fully. 500 Records imported"
+	},
+	{
+		"Status": "Success",
+		"Client": "Client5",
+		"Project": "Project006",
+		"FileName": "Data File 06",
+		"Type": "Data File",
+		"RunTime": "08-20-18",
+		"RunBy": "Auto",
+		"Log": "Data File run success fully. 500 Records imported"
+	},
+	{
+		"Status": "Error",
+		"Client": "Client6",
+		"Project": "Project007",
+		"FileName": "Data File 07",
+		"Type": "Data File",
+		"RunTime": "08-21-18",
+		"RunBy": "Auto",
+		"Log": "Data File run success fully. 500 Records imported"
+	},
+	{
+		"Status": "Success",
+		"Client": "Client7",
+		"Project": "Project008",
+		"FileName": "Data File 08",
+		"Type": "Data File",
+		"RunTime": "08-22-18",
+		"RunBy": "John S",
+		"Log": "Data File run success fully. 500 Records imported"
+	},
+	{
+		"Status": "Success",
+		"Client": "Client8",
+		"Project": "Project009",
+		"FileName": "Data File 09",
+		"Type": "Data File",
+		"RunTime": "08-23-18",
+		"RunBy": "John S",
+		"Log": "Data File run success fully. 500 Records imported"
+	},
+	{
+		"Status": "Success",
+		"Client": "Client9",
+		"Project": "Project010",
+		"FileName": "Data File 10",
+		"Type": "Data File",
+		"RunTime": "08-24-18",
+		"RunBy": "John S",
+		"Log": "Data File run success fully. 500 Records imported"
+	},
+	{
+		"Status": "Error",
+		"Client": "Client10",
+		"Project": "Project011",
+		"FileName": "Data File 11",
+		"Type": "Data File",
+		"RunTime": "08-25-18",
+		"RunBy": "John S",
+		"Log": "Data File run success fully. 500 Records imported"
+	},
+	{
+		"Status": "Success",
+		"Client": "Client11",
+		"Project": "Project012",
+		"FileName": "Data File 12",
+		"Type": "Data File",
+		"RunTime": "08-26-18",
+		"RunBy": "Jim S",
+		"Log": "Data File run success fully. 500 Records imported"
+	},
+	{
+		"Status": "Success",
+		"Client": "Client12",
+		"Project": "Project013",
+		"FileName": "Data File 13",
+		"Type": "Data File",
+		"RunTime": "08-27-18",
+		"RunBy": "Auto",
+		"Log": "Data File run success fully. 500 Records imported"
+	},
+	{
+		"Status": "Error",
+		"Client": "Client13",
+		"Project": "Project014",
+		"FileName": "Data File 14",
+		"Type": "Data File",
+		"RunTime": "08-28-18",
+		"RunBy": "John S",
+		"Log": "Data File run success fully. 500 Records imported"
+	},
+	{
+		"Status": "Success",
+		"Client": "Client14",
+		"Project": "Project015",
+		"FileName": "Data File 15",
+		"Type": "Data File",
+		"RunTime": "08-29-18",
+		"RunBy": "Auto",
+		"Log": "Data File run success fully. 500 Records imported"
+	},
+	{
+		"Status": "Success",
+		"Client": "Client15",
+		"Project": "Project016",
+		"FileName": "Data File 16",
+		"Type": "Data File",
+		"RunTime": "08-30-18",
+		"RunBy": "Auto",
+		"Log": "Data File run success fully. 500 Records imported"
+	},
+	{
+		"Status": "Success",
+		"Client": "Client16",
+		"Project": "Project017",
+		"FileName": "Data File 17",
+		"Type": "Data File",
+		"RunTime": "08-31-18",
+		"RunBy": "Auto",
+		"Log": "Data File run success fully. 500 Records imported"
+	},
+	{
+		"Status": "Success",
+		"Client": "Client17",
+		"Project": "Project018",
+		"FileName": "Data File 18",
+		"Type": "Data File",
+		"RunTime": "09-01-18",
+		"RunBy": "John S",
+		"Log": "Data File run success fully. 500 Records imported"
+	},
+	{
+		"Status": "Error",
+		"Client": "Client18",
+		"Project": "Project019",
+		"FileName": "Data File 19",
+		"Type": "Data File",
+		"RunTime": "09-02-18",
+		"RunBy": "John S",
+		"Log": "Data File run success fully. 500 Records imported"
+	},
+	{
+		"Status": "Success",
+		"Client": "CIBC",
+		"Project": "Project020",
+		"FileName": "Data File 20",
+		"Type": "Data File",
+		"RunTime": "09-03-18",
+		"RunBy": "John S",
+		"Log": "Data File run success fully. 500 Records imported"
+	},
+	{
+		"Status": "Error",
+		"Client": "Client1",
+		"Project": "Project021",
+		"FileName": "Data File 21",
+		"Type": "Data File",
+		"RunTime": "09-04-18",
+		"RunBy": "John S",
+		"Log": "Data File run success fully. 500 Records imported"
+	},
+	{
+		"Status": "Success",
+		"Client": "Client2",
+		"Project": "Project022",
+		"FileName": "Data File 22",
+		"Type": "Data File",
+		"RunTime": "09-05-18",
+		"RunBy": "Jim S",
+		"Log": "Data File run success fully. 500 Records imported"
+	},
+	{
+		"Status": "Success",
+		"Client": "Client3",
+		"Project": "Project023",
+		"FileName": "Data File 23",
+		"Type": "Data File",
+		"RunTime": "09-06-18",
+		"RunBy": "Auto",
+		"Log": "Data File run success fully. 500 Records imported"
+	},
+	{
+		"Status": "Success",
+		"Client": "Client4",
+		"Project": "Project024",
+		"FileName": "Data File 24",
+		"Type": "Data File",
+		"RunTime": "09-07-18",
+		"RunBy": "John S",
+		"Log": "Data File run success fully. 500 Records imported"
+	},
+	{
+		"Status": "Error",
+		"Client": "Client5",
+		"Project": "Project025",
+		"FileName": "Data File 25",
+		"Type": "Data File",
+		"RunTime": "09-08-18",
+		"RunBy": "Auto",
+		"Log": "Data File run success fully. 500 Records imported"
+	},
+	{
+		"Status": "Success",
+		"Client": "Client6",
+		"Project": "Project026",
+		"FileName": "Data File 26",
+		"Type": "Data File",
+		"RunTime": "09-09-18",
+		"RunBy": "Auto",
+		"Log": "Data File run success fully. 500 Records imported"
+	},
+	{
+		"Status": "Success",
+		"Client": "Client7",
+		"Project": "Project027",
+		"FileName": "Data File 27",
+		"Type": "Data File",
+		"RunTime": "09-10-18",
+		"RunBy": "Auto",
+		"Log": "Data File run success fully. 500 Records imported"
+	},
+	{
+		"Status": "Error",
+		"Client": "Client8",
+		"Project": "Project028",
+		"FileName": "Data File 28",
+		"Type": "Data File",
+		"RunTime": "09-11-18",
+		"RunBy": "John S",
+		"Log": "Data File run success fully. 500 Records imported"
+	},
+	{
+		"Status": "Success",
+		"Client": "Client9",
+		"Project": "Project029",
+		"FileName": "Data File 29",
+		"Type": "Data File",
+		"RunTime": "09-12-18",
+		"RunBy": "John S",
+		"Log": "Data File run success fully. 500 Records imported"
+	},
+	{
+		"Status": "Success",
+		"Client": "Client10",
+		"Project": "Project030",
+		"FileName": "Data File 30",
+		"Type": "Data File",
+		"RunTime": "09-13-18",
+		"RunBy": "John S",
+		"Log": "Data File run success fully. 500 Records imported"
+	},
+	{
+		"Status": "Success",
+		"Client": "Client11",
+		"Project": "Project031",
+		"FileName": "Data File 31",
+		"Type": "Data File",
+		"RunTime": "09-14-18",
+		"RunBy": "John S",
+		"Log": "Data File run success fully. 500 Records imported"
+	},
+	{
+		"Status": "Success",
+		"Client": "Client12",
+		"Project": "Project032",
+		"FileName": "Data File 32",
+		"Type": "Data File",
+		"RunTime": "09-15-18",
+		"RunBy": "Jim S",
+		"Log": "Data File run success fully. 500 Records imported"
+	},
+	{
+		"Status": "Error",
+		"Client": "Client13",
+		"Project": "Project033",
+		"FileName": "Data File 33",
+		"Type": "Data File",
+		"RunTime": "09-16-18",
+		"RunBy": "Auto",
+		"Log": "Data File run success fully. 500 Records imported"
+	},
+	{
+		"Status": "Success",
+		"Client": "Client14",
+		"Project": "Project034",
+		"FileName": "Data File 34",
+		"Type": "Data File",
+		"RunTime": "09-17-18",
+		"RunBy": "John S",
+		"Log": "Data File run success fully. 500 Records imported"
+	},
+	{
+		"Status": "Error",
+		"Client": "Client15",
+		"Project": "Project035",
+		"FileName": "Data File 35",
+		"Type": "Data File",
+		"RunTime": "09-18-18",
+		"RunBy": "Auto",
+		"Log": "Data File run success fully. 500 Records imported"
+	},
+	{
+		"Status": "Success",
+		"Client": "Client16",
+		"Project": "Project036",
+		"FileName": "Data File 36",
+		"Type": "Data File",
+		"RunTime": "09-19-18",
+		"RunBy": "Auto",
+		"Log": "Data File run success fully. 500 Records imported"
+	},
+	{
+		"Status": "Success",
+		"Client": "Client17",
+		"Project": "Project037",
+		"FileName": "Data File 37",
+		"Type": "Data File",
+		"RunTime": "09-20-18",
+		"RunBy": "Auto",
+		"Log": "Data File run success fully. 500 Records imported"
+	},
+	{
+		"Status": "Success",
+		"Client": "Client18",
+		"Project": "Project038",
+		"FileName": "Data File 38",
+		"Type": "Data File",
+		"RunTime": "09-21-18",
+		"RunBy": "John S",
+		"Log": "Data File run success fully. 500 Records imported"
+	},
+	{
+		"Status": "Error",
+		"Client": "CIBC",
+		"Project": "Project039",
+		"FileName": "Data File 39",
+		"Type": "Data File",
+		"RunTime": "09-22-18",
+		"RunBy": "John S",
+		"Log": "Data File run success fully. 500 Records imported"
+	},
+	{
+		"Status": "Success",
+		"Client": "Client1",
+		"Project": "Project040",
+		"FileName": "Data File 40",
+		"Type": "Data File",
+		"RunTime": "09-23-18",
+		"RunBy": "John S",
+		"Log": "Data File run success fully. 500 Records imported"
+	},
+	{
+		"Status": "Success",
+		"Client": "Client2",
+		"Project": "Project041",
+		"FileName": "Data File 41",
+		"Type": "Data File",
+		"RunTime": "09-24-18",
+		"RunBy": "John S",
+		"Log": "Data File run success fully. 500 Records imported"
+	},
+	{
+		"Status": "Error",
+		"Client": "Client3",
+		"Project": "Project042",
+		"FileName": "Data File 42",
+		"Type": "Data File",
+		"RunTime": "09-25-18",
+		"RunBy": "Jim S",
+		"Log": "Data File run success fully. 500 Records imported"
+	},
+	{
+		"Status": "Success",
+		"Client": "Client4",
+		"Project": "Project043",
+		"FileName": "Data File 43",
+		"Type": "Data File",
+		"RunTime": "09-26-18",
+		"RunBy": "Auto",
+		"Log": "Data File run success fully. 500 Records imported"
+	},
+	{
+		"Status": "Success",
+		"Client": "Client5",
+		"Project": "Project044",
+		"FileName": "Data File 44",
+		"Type": "Data File",
+		"RunTime": "09-27-18",
+		"RunBy": "John S",
+		"Log": "Data File run success fully. 500 Records imported"
+	},
+	{
+		"Status": "Success",
+		"Client": "Client6",
+		"Project": "Project045",
+		"FileName": "Data File 45",
+		"Type": "Data File",
+		"RunTime": "09-28-18",
+		"RunBy": "Auto",
+		"Log": "Data File run success fully. 500 Records imported"
+	},
+	{
+		"Status": "Success",
+		"Client": "Client7",
+		"Project": "Project046",
+		"FileName": "Data File 46",
+		"Type": "Data File",
+		"RunTime": "09-29-18",
+		"RunBy": "Auto",
+		"Log": "Data File run success fully. 500 Records imported"
+	},
+	{
+		"Status": "Error",
+		"Client": "Client8",
+		"Project": "Project047",
+		"FileName": "Data File 47",
+		"Type": "Data File",
+		"RunTime": "09-30-18",
+		"RunBy": "Auto",
+		"Log": "Data File run success fully. 500 Records imported"
+	},
+	{
+		"Status": "Success",
+		"Client": "Client9",
+		"Project": "Project048",
+		"FileName": "Data File 48",
+		"Type": "Data File",
+		"RunTime": "10-01-18",
+		"RunBy": "John S",
+		"Log": "Data File run success fully. 500 Records imported"
+	},
+	{
+		"Status": "Error",
+		"Client": "Client10",
+		"Project": "Project049",
+		"FileName": "Data File 49",
+		"Type": "Data File",
+		"RunTime": "10-02-18",
+		"RunBy": "John S",
+		"Log": "Data File run success fully. 500 Records imported"
+	},
+	{
+		"Status": "Success",
+		"Client": "Client11",
+		"Project": "Project050",
+		"FileName": "Data File 50",
+		"Type": "Data File",
+		"RunTime": "10-03-18",
+		"RunBy": "John S",
+		"Log": "Data File run success fully. 500 Records imported"
+	},
+	{
+		"Status": "Success",
+		"Client": "Client12",
+		"Project": "Project051",
+		"FileName": "Data File 51",
+		"Type": "Data File",
+		"RunTime": "10-04-18",
+		"RunBy": "John S",
+		"Log": "Data File run success fully. 500 Records imported"
+	},
+	{
+		"Status": "Success",
+		"Client": "Client13",
+		"Project": "Project052",
+		"FileName": "Data File 52",
+		"Type": "Data File",
+		"RunTime": "10-05-18",
+		"RunBy": "Jim S",
+		"Log": "Data File run success fully. 500 Records imported"
+	},
+	{
+		"Status": "Error",
+		"Client": "Client14",
+		"Project": "Project053",
+		"FileName": "Data File 53",
+		"Type": "Data File",
+		"RunTime": "10-06-18",
+		"RunBy": "Auto",
+		"Log": "Data File run success fully. 500 Records imported"
+	},
+	{
+		"Status": "Success",
+		"Client": "Client15",
+		"Project": "Project054",
+		"FileName": "Data File 54",
+		"Type": "Data File",
+		"RunTime": "10-07-18",
+		"RunBy": "John S",
+		"Log": "Data File run success fully. 500 Records imported"
+	},
+	{
+		"Status": "Success",
+		"Client": "Client16",
+		"Project": "Project055",
+		"FileName": "Data File 55",
+		"Type": "Data File",
+		"RunTime": "10-08-18",
+		"RunBy": "Auto",
+		"Log": "Data File run success fully. 500 Records imported"
+	},
+	{
+		"Status": "Error",
+		"Client": "Client17",
+		"Project": "Project056",
+		"FileName": "Data File 56",
+		"Type": "Data File",
+		"RunTime": "10-09-18",
+		"RunBy": "Auto",
+		"Log": "Data File run success fully. 500 Records imported"
+	},
+	{
+		"Status": "Success",
+		"Client": "Client18",
+		"Project": "Project057",
+		"FileName": "Data File 57",
+		"Type": "Data File",
+		"RunTime": "10-10-18",
+		"RunBy": "Auto",
+		"Log": "Data File run success fully. 500 Records imported"
+	},
+	{
+		"Status": "Success",
+		"Client": "CIBC",
+		"Project": "Project058",
+		"FileName": "Data File 58",
+		"Type": "Data File",
+		"RunTime": "10-11-18",
+		"RunBy": "John S",
+		"Log": "Data File run success fully. 500 Records imported"
+	},
+	{
+		"Status": "Success",
+		"Client": "Client1",
+		"Project": "Project059",
+		"FileName": "Data File 59",
+		"Type": "Data File",
+		"RunTime": "10-12-18",
+		"RunBy": "John S",
+		"Log": "Data File run success fully. 500 Records imported"
+	},
+	{
+		"Status": "Success",
+		"Client": "Client2",
+		"Project": "Project060",
+		"FileName": "Data File 60",
+		"Type": "Data File",
+		"RunTime": "10-13-18",
+		"RunBy": "John S",
+		"Log": "Data File run success fully. 500 Records imported"
+	},
+	{
+		"Status": "Error",
+		"Client": "Client3",
+		"Project": "Project061",
+		"FileName": "Data File 61",
+		"Type": "Data File",
+		"RunTime": "10-14-18",
+		"RunBy": "John S",
+		"Log": "Data File run success fully. 500 Records imported"
+	},
+	{
+		"Status": "Success",
+		"Client": "Client4",
+		"Project": "Project062",
+		"FileName": "Data File 62",
+		"Type": "Data File",
+		"RunTime": "10-15-18",
+		"RunBy": "Jim S",
+		"Log": "Data File run success fully. 500 Records imported"
+	},
+	{
+		"Status": "Error",
+		"Client": "Client5",
+		"Project": "Project063",
+		"FileName": "Data File 63",
+		"Type": "Data File",
+		"RunTime": "10-16-18",
+		"RunBy": "Auto",
+		"Log": "Data File run success fully. 500 Records imported"
+	},
+	{
+		"Status": "Success",
+		"Client": "Client6",
+		"Project": "Project064",
+		"FileName": "Data File 64",
+		"Type": "Data File",
+		"RunTime": "10-17-18",
+		"RunBy": "John S",
+		"Log": "Data File run success fully. 500 Records imported"
+	},
+	{
+		"Status": "Success",
+		"Client": "Client7",
+		"Project": "Project065",
+		"FileName": "Data File 65",
+		"Type": "Data File",
+		"RunTime": "10-18-18",
+		"RunBy": "Auto",
+		"Log": "Data File run success fully. 500 Records imported"
+	},
+	{
+		"Status": "Success",
+		"Client": "Client8",
+		"Project": "Project066",
+		"FileName": "Data File 66",
+		"Type": "Data File",
+		"RunTime": "10-19-18",
+		"RunBy": "Auto",
+		"Log": "Data File run success fully. 500 Records imported"
+	},
+	{
+		"Status": "Error",
+		"Client": "Client9",
+		"Project": "Project067",
+		"FileName": "Data File 67",
+		"Type": "Data File",
+		"RunTime": "10-20-18",
+		"RunBy": "Auto",
+		"Log": "Data File run success fully. 500 Records imported"
+	},
+	{
+		"Status": "Success",
+		"Client": "Client10",
+		"Project": "Project068",
+		"FileName": "Data File 68",
+		"Type": "Data File",
+		"RunTime": "10-21-18",
+		"RunBy": "John S",
+		"Log": "Data File run success fully. 500 Records imported"
+	},
+	{
+		"Status": "Success",
+		"Client": "Client11",
+		"Project": "Project069",
+		"FileName": "Data File 69",
+		"Type": "Data File",
+		"RunTime": "10-22-18",
+		"RunBy": "John S",
+		"Log": "Data File run success fully. 500 Records imported"
+	},
+	{
+		"Status": "Error",
+		"Client": "Client12",
+		"Project": "Project070",
+		"FileName": "Data File 70",
+		"Type": "Data File",
+		"RunTime": "10-23-18",
+		"RunBy": "John S",
+		"Log": "Data File run success fully. 500 Records imported"
+	},
+	{
+		"Status": "Success",
+		"Client": "Client13",
+		"Project": "Project071",
+		"FileName": "Data File 71",
+		"Type": "Data File",
+		"RunTime": "10-24-18",
+		"RunBy": "John S",
+		"Log": "Data File run success fully. 500 Records imported"
+	},
+	{
+		"Status": "Success",
+		"Client": "Client14",
+		"Project": "Project072",
+		"FileName": "Data File 72",
+		"Type": "Data File",
+		"RunTime": "10-25-18",
+		"RunBy": "Jim S",
+		"Log": "Data File run success fully. 500 Records imported"
+	},
+	{
+		"Status": "Success",
+		"Client": "Client15",
+		"Project": "Project073",
+		"FileName": "Data File 73",
+		"Type": "Data File",
+		"RunTime": "10-26-18",
+		"RunBy": "Auto",
+		"Log": "Data File run success fully. 500 Records imported"
+	},
+	{
+		"Status": "Success",
+		"Client": "Client16",
+		"Project": "Project074",
+		"FileName": "Data File 74",
+		"Type": "Data File",
+		"RunTime": "10-27-18",
+		"RunBy": "John S",
+		"Log": "Data File run success fully. 500 Records imported"
+	},
+	{
+		"Status": "Error",
+		"Client": "Client17",
+		"Project": "Project075",
+		"FileName": "Data File 75",
+		"Type": "Data File",
+		"RunTime": "10-28-18",
+		"RunBy": "Auto",
+		"Log": "Data File run success fully. 500 Records imported"
+	},
+	{
+		"Status": "Success",
+		"Client": "Client18",
+		"Project": "Project076",
+		"FileName": "Data File 76",
+		"Type": "Data File",
+		"RunTime": "10-29-18",
+		"RunBy": "Auto",
+		"Log": "Data File run success fully. 500 Records imported"
+	},
+	{
+		"Status": "Error",
+		"Client": "CIBC",
+		"Project": "Project077",
+		"FileName": "Data File 77",
+		"Type": "Data File",
+		"RunTime": "10-30-18",
+		"RunBy": "Auto",
+		"Log": "Data File run success fully. 500 Records imported"
+	},
+	{
+		"Status": "Success",
+		"Client": "Client1",
+		"Project": "Project078",
+		"FileName": "Data File 78",
+		"Type": "Data File",
+		"RunTime": "10-31-18",
+		"RunBy": "John S",
+		"Log": "Data File run success fully. 500 Records imported"
+	},
+	{
+		"Status": "Success",
+		"Client": "Client2",
+		"Project": "Project079",
+		"FileName": "Data File 79",
+		"Type": "Data File",
+		"RunTime": "11-01-18",
+		"RunBy": "John S",
+		"Log": "Data File run success fully. 500 Records imported"
+	},
+	{
+		"Status": "Success",
+		"Client": "Client3",
+		"Project": "Project080",
+		"FileName": "Data File 80",
+		"Type": "Data File",
+		"RunTime": "11-02-18",
+		"RunBy": "John S",
+		"Log": "Data File run success fully. 500 Records imported"
+	},
+	{
+		"Status": "Error",
+		"Client": "Client4",
+		"Project": "Project081",
+		"FileName": "Data File 81",
+		"Type": "Data File",
+		"RunTime": "11-03-18",
+		"RunBy": "John S",
+		"Log": "Data File run success fully. 500 Records imported"
+	},
+	{
+		"Status": "Success",
+		"Client": "Client5",
+		"Project": "Project082",
+		"FileName": "Data File 82",
+		"Type": "Data File",
+		"RunTime": "11-04-18",
+		"RunBy": "Jim S",
+		"Log": "Data File run success fully. 500 Records imported"
+	},
+	{
+		"Status": "Success",
+		"Client": "Client6",
+		"Project": "Project083",
+		"FileName": "Data File 83",
+		"Type": "Data File",
+		"RunTime": "11-05-18",
+		"RunBy": "Auto",
+		"Log": "Data File run success fully. 500 Records imported"
+	},
+	{
+		"Status": "Error",
+		"Client": "Client7",
+		"Project": "Project084",
+		"FileName": "Data File 84",
+		"Type": "Data File",
+		"RunTime": "11-06-18",
+		"RunBy": "John S",
+		"Log": "Data File run success fully. 500 Records imported"
+	},
+	{
+		"Status": "Success",
+		"Client": "Client8",
+		"Project": "Project085",
+		"FileName": "Data File 85",
+		"Type": "Data File",
+		"RunTime": "11-07-18",
+		"RunBy": "Auto",
+		"Log": "Data File run success fully. 500 Records imported"
+	},
+	{
+		"Status": "Success",
+		"Client": "Client9",
+		"Project": "Project086",
+		"FileName": "Data File 86",
+		"Type": "Data File",
+		"RunTime": "11-08-18",
+		"RunBy": "Auto",
+		"Log": "Data File run success fully. 500 Records imported"
+	},
+	{
+		"Status": "Success",
+		"Client": "Client10",
+		"Project": "Project087",
+		"FileName": "Data File 87",
+		"Type": "Data File",
+		"RunTime": "11-09-18",
+		"RunBy": "Auto",
+		"Log": "Data File run success fully. 500 Records imported"
+	},
+	{
+		"Status": "Success",
+		"Client": "Client11",
+		"Project": "Project088",
+		"FileName": "Data File 88",
+		"Type": "Data File",
+		"RunTime": "11-10-18",
+		"RunBy": "John S",
+		"Log": "Data File run success fully. 500 Records imported"
+	},
+	{
+		"Status": "Error",
+		"Client": "Client12",
+		"Project": "Project089",
+		"FileName": "Data File 89",
+		"Type": "Data File",
+		"RunTime": "11-11-18",
+		"RunBy": "John S",
+		"Log": "Data File run success fully. 500 Records imported"
+	},
+	{
+		"Status": "Success",
+		"Client": "Client13",
+		"Project": "Project090",
+		"FileName": "Data File 90",
+		"Type": "Data File",
+		"RunTime": "11-12-18",
+		"RunBy": "John S",
+		"Log": "Data File run success fully. 500 Records imported"
+	},
+	{
+		"Status": "Error",
+		"Client": "Client14",
+		"Project": "Project091",
+		"FileName": "Data File 91",
+		"Type": "Data File",
+		"RunTime": "11-13-18",
+		"RunBy": "John S",
+		"Log": "Data File run success fully. 500 Records imported"
+	},
+	{
+		"Status": "Success",
+		"Client": "Client15",
+		"Project": "Project092",
+		"FileName": "Data File 92",
+		"Type": "Data File",
+		"RunTime": "11-14-18",
+		"RunBy": "Jim S",
+		"Log": "Data File run success fully. 500 Records imported"
+	},
+	{
+		"Status": "Success",
+		"Client": "Client16",
+		"Project": "Project093",
+		"FileName": "Data File 93",
+		"Type": "Data File",
+		"RunTime": "11-15-18",
+		"RunBy": "Auto",
+		"Log": "Data File run success fully. 500 Records imported"
+	},
+	{
+		"Status": "Success",
+		"Client": "Client17",
+		"Project": "Project094",
+		"FileName": "Data File 94",
+		"Type": "Data File",
+		"RunTime": "11-16-18",
+		"RunBy": "John S",
+		"Log": "Data File run success fully. 500 Records imported"
+	},
+	{
+		"Status": "Error",
+		"Client": "Client18",
+		"Project": "Project095",
+		"FileName": "Data File 95",
+		"Type": "Data File",
+		"RunTime": "11-17-18",
+		"RunBy": "Auto",
+		"Log": "Data File run success fully. 500 Records imported"
+	},
+	{
+		"Status": "Success",
+		"Client": "CIBC",
+		"Project": "Project096",
+		"FileName": "Data File 96",
+		"Type": "Data File",
+		"RunTime": "11-18-18",
+		"RunBy": "Auto",
+		"Log": "Data File run success fully. 500 Records imported"
+	},
+	{
+		"Status": "Success",
+		"Client": "Client13",
+		"Project": "Project097",
+		"FileName": "Data File 97",
+		"Type": "Data File",
+		"RunTime": "11-19-18",
+		"RunBy": "Auto",
+		"Log": "Data File run success fully. 500 Records imported"
+	},
+	{
+		"Status": "Error",
+		"Client": "Client14",
+		"Project": "Project098",
+		"FileName": "Data File 98",
+		"Type": "Data File",
+		"RunTime": "11-20-18",
+		"RunBy": "John S",
+		"Log": "Data File run success fully. 500 Records imported"
+	},
+	{
+		"Status": "Success",
+		"Client": "Client15",
+		"Project": "Project099",
+		"FileName": "Data File 99",
+		"Type": "Data File",
+		"RunTime": "11-21-18",
+		"RunBy": "Jim S",
+		"Log": "Data File run success fully. 500 Records imported"
+	},
+	{
+		"Status": "Success",
+		"Client": "Client16",
+		"Project": "Project100",
+		"FileName": "Data File 100",
+		"Type": "Data File",
+		"RunTime": "11-22-18",
+		"RunBy": "Jim S",
+		"Log": "Data File run success fully. 500 Records imported"
+	},
+	{
+		"Status": "Success",
+		"Client": "Client17",
+		"Project": "Project101",
+		"FileName": "Data File 101",
+		"Type": "Data File",
+		"RunTime": "11-23-18",
+		"RunBy": "Jim S",
+		"Log": "Data File run success fully. 500 Records imported"
+	},
+	{
+		"Status": "Success",
+		"Client": "CIBC",
+		"Project": "Project102",
+		"FileName": "Data File 102",
+		"Type": "Data File",
+		"RunTime": "11-24-18",
+		"RunBy": "Jim S",
+		"Log": "Data File run success fully. 500 Records imported"
+	}
+]
